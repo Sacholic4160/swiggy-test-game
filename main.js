@@ -1,7 +1,6 @@
 // Import the necessary classes
-const Player = require('./player.js');
-const Die = require('./die.js');
-const Match = require('./match.js');
+const Player = require('./Player');
+const Match = require('./Match');
 
 // Create two players with different attributes
 let playerA = new Player(50, 5, 10);
