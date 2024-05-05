@@ -1,3 +1,8 @@
+const assert = require('assert');
+const Player = require('./Player');
+const Match = require('./Match');
+
+
 // Test suite for the Match class
 describe('Match Class', function() {
     // Test case to simulate the match and determine the winner
