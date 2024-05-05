@@ -11,3 +11,4 @@ let match = new Match(playerA, playerB);
 
 // Simulate the match between the two players
 match.simulateMatch();
+module.exports = Main;

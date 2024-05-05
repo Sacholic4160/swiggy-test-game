@@ -1,3 +1,9 @@
+const assert = require('assert');
+const Player = require('./Player');
+const Match = require('./Match');
+const main = require('./Main');
+
+
 // Test suite for the Main class
 describe('Main Class', function() {
     // Test case to ensure the game simulation runs correctly
